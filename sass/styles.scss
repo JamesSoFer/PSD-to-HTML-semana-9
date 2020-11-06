@@ -1,2 +1,11 @@
-@import "global" ;
-@import "helpers" ;
+// global and helpers
+
+@import "global";
+@import "helpers";
+
+// principal content
+
+@import "header";
+@import "slider";
+@import "box-main-1";
+@import "button-1"; 
