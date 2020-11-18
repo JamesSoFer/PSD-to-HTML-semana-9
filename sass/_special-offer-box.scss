@@ -1,0 +1,71 @@
+#special-offer-box {
+    float: left;
+    width: 600px;
+    height: 330px;
+}
+
+#special-offer-box h2{
+    margin-top: 71px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: normal;
+    color: #292c34;
+}
+
+#special-offer-box p{
+    width: 445px;
+    text-align: center;
+    color: #c4c4c4;
+    font-weight: lighter;
+    margin-left: 76px;
+}
+
+#special-offer-box #button-5 {
+    width: 233px;
+    margin-left: 145px;
+    margin-top: 20px;
+    text-align: center;
+    float: left;
+    background-color: #e02d74;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 34px;
+    padding-right: 34px;
+    border-radius: 5px;
+}
+
+#special-offer-box #button-5 a{
+    font-size: 14px;
+    color: #f9f9f9;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+// footer
+
+#special-offer-box #footer {
+    float: left;
+    width: 600px;
+    height: 66px;
+    margin-top: 70px;
+    background-color: #eaeced;
+}
+
+#special-offer-box #footer p{
+    float: left;
+    text-align: left;
+    margin-top: 20px;
+    color: #878a8f;
+}
+
+#special-offer-box #footer a{
+    color: #878a8f;
+}
+
+#special-offer-box #footer img{
+    float: left;
+    margin-left: 450px;
+    margin-bottom: 30px;
+}
